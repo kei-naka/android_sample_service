@@ -1,0 +1,6 @@
+[Android]SampleService
+- has 1 activity and 2 services
+- starts and stops services from the activity
+- starts a service in the same thread as the activity
+- starts the other service in a different thread from the activity
+- notes information with toast

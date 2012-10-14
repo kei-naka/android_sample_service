@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SampleService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+<string name="startServiceNoThread">start service (same thread)</string>
+<string name="startServiceWithThread">start service (different thread)</string>
+<string name="stopService">stop service!!</string>
+<string name="explain">This is an demonstration of service in android.
+    The service will sleep for 4 seconds, and then, show a toast.</string>
+</resources>
